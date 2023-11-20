@@ -2,44 +2,44 @@ import React from "react";
 
 function StickyNavbar() {
   return (
-      <header class="bg-green-800 fixed top-0 left-0 right-0 text-white">
+      <header class="bg-[#325D79] fixed top-0 left-0 right-0 text-white">
         <nav
           class="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8"
           aria-label="Global"
         >
           <div class="flex lg:flex-1">
-            <a href="https://www.google.com" class="-m-1.5 p-1.5 text-green-200 text-xl">
+            <a href="https://www.google.com" class="-m-1.5 p-1.5 text-white text-xl">
               JAN SUVIDHA PORTAL
             </a>
           </div>
           <div class="hidden lg:flex lg:gap-x-12">
             <a
               href="https://www.google.com"
-              class="text-sm text-green-200 font-semibold leading-6 hover:text-green-800 hover:bg-green-600 transition delay-75 duration-300 ease-in-out rounded-lg py-3 px-2"
+              class="text-sm text-white font-semibold leading-6 hover:text-[#325D79] hover:bg-[#9BD7E1] transition delay-75 duration-300 ease-in-out rounded-lg py-3 px-2"
             >
               Schemes
             </a>
             <a
               href="https://www.google.com"
-              class="text-sm text-green-200 font-semibold leading-6 hover:text-green-800 hover:bg-green-600 transition delay-75 duration-300 ease-in-out rounded-lg py-3 px-2"
+              class="text-sm text-white font-semibold leading-6 hover:text-[#325D79] hover:bg-[#9BD7E1] transition delay-75 duration-300 ease-in-out rounded-lg py-3 px-2"
             >
               About
             </a>
             <a
               href="https://www.google.com"
-              class="text-sm text-green-200 font-semibold leading-6 hover:text-green-800 hover:bg-green-600 transition delay-75 duration-300 ease-in-out rounded-lg py-3 px-2"
+              class="text-sm text-white font-semibold leading-6 hover:text-[#325D79] hover:bg-[#9BD7E1] transition delay-75 duration-300 ease-in-out rounded-lg py-3 px-2"
             >
               Organization Login
             </a>
             <a
               href="https://www.google.com"
-              class="text-sm text-green-200 font-semibold leading-6 hover:text-green-800 hover:bg-green-600 transition delay-75 duration-300 ease-in-out rounded-lg py-3 px-2"
+              class="text-sm text-white font-semibold leading-6 hover:text-[#325D79] hover:bg-[#9BD7E1] transition delay-75 duration-300 ease-in-out rounded-lg py-3 px-2"
             >
               Citizen Login
             </a>
             <a
               href="https://www.google.com"
-              class="text-sm text-green-200 font-semibold leading-6 hover:text-green-800 hover:bg-green-600 transition delay-75 duration-300 ease-in-out rounded-lg py-3 px-2"
+              class="text-sm text-white font-semibold leading-6 hover:text-[#325D79] hover:bg-[#9BD7E1] transition delay-75 duration-300 ease-in-out rounded-lg py-3 px-2"
             >
               Contact Us
             </a>

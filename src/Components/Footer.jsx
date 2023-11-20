@@ -2,50 +2,50 @@ import React from 'react'
 
 function Footer() {
   return (
-    <footer className="bg-green-200">
+    <footer className="bg-[#9BD7E1] font-serif text-[#325D79]">
   <div className="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
     <div className="flex justify-center text-teal-600">
       
     </div>
 
-    <p className="mx-auto mt-6 max-w-md text-justify leading-relaxed text-gray-500">
+    <p className="mx-auto mt-6 max-w-md text-justify leading-relaxed ">
       Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt
       consequuntur amet culpa cum itaque neque. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Assumenda placeat mollitia natus eaque consequuntur exercitationem perferendis sapiente, dolore sint porro tempora cumque ullam fugit dolorum, quia quo adipisci eius facilis necessitatibus fuga? Rerum maxime vel harum beatae dicta aliquid quis iure voluptatem accusantium alias.
     </p>
 
     <ul className="mt-12 flex flex-wrap justify-center gap-6 md:gap-8 lg:gap-12">
       <li>
-        <a className="text-gray-700 transition hover:text-gray-700/75" href="/">
+        <a className="text-gray-700 transition" href="/">
           About
         </a>
       </li>
 
       <li>
-        <a className="text-gray-700 transition hover:text-gray-700/75" href="/">
+        <a className="text-gray-700 transition" href="/">
           Careers
         </a>
       </li>
 
       <li>
-        <a className="text-gray-700 transition hover:text-gray-700/75" href="/">
+        <a className="text-gray-700 transition" href="/">
           History
         </a>
       </li>
 
       <li>
-        <a className="text-gray-700 transition hover:text-gray-700/75" href="/">
+        <a className="text-gray-700 transition" href="/">
           Services
         </a>
       </li>
 
       <li>
-        <a className="text-gray-700 transition hover:text-gray-700/75" href="/">
+        <a className="text-gray-700 transition" href="/">
           Projects
         </a>
       </li>
 
       <li>
-        <a className="text-gray-700 transition hover:text-gray-700/75" href="/">
+        <a className="text-gray-700 transition" href="/">
           Blog
         </a>
       </li>
@@ -57,7 +57,7 @@ function Footer() {
           href="/"
           rel="noreferrer"
           target="_blank"
-          className="text-gray-700 transition hover:text-gray-700/75"
+          className="text-gray-700 transition"
         >
           <span className="sr-only">Facebook</span>
           <svg
@@ -80,7 +80,7 @@ function Footer() {
           href="/"
           rel="noreferrer"
           target="_blank"
-          className="text-gray-700 transition hover:text-gray-700/75"
+          className="text-gray-700 transition"
         >
           <span className="sr-only">Instagram</span>
           <svg
@@ -103,7 +103,7 @@ function Footer() {
           href="/"
           rel="noreferrer"
           target="_blank"
-          className="text-gray-700 transition hover:text-gray-700/75"
+          className="text-gray-700 transition"
         >
           <span className="sr-only">Twitter</span>
           <svg
@@ -124,7 +124,7 @@ function Footer() {
           href="/"
           rel="noreferrer"
           target="_blank"
-          className="text-gray-700 transition hover:text-gray-700/75"
+          className="text-gray-700 transition"
         >
           <span className="sr-only">GitHub</span>
           <svg
@@ -147,7 +147,7 @@ function Footer() {
           href="/"
           rel="noreferrer"
           target="_blank"
-          className="text-gray-700 transition hover:text-gray-700/75"
+          className="text-gray-700 transition"
         >
           <span className="sr-only">Dribbble</span>
           <svg
